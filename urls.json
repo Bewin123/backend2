@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "url": "https://example1.com",
+    "shortenedUrl": "https://short.ly/abc123",
+    "createdAt": "2024-05-14T08:00:00Z",
+    "userId": 1
+  },
+]
+
+
+

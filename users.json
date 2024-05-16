@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "username": "user1",
+    "email": "user1@example.com",
+    "createdAt": "2024-05-14T08:00:00Z"
+  },
+  {
+    "id": 2,
+    "username": "user2",
+    "email": "user2@example.com",
+    "createdAt": "2024-05-15T10:00:00Z"
+  },
+  {
+    "id": 3,
+    "username": "user3",
+    "email": "user3@example.com",
+    "createdAt": "2024-05-16T12:00:00Z"
+  },
+  {
+    "id": 4,
+    "username": "user4",
+    "email": "user4@example.com",
+    "createdAt": "2024-05-17T14:00:00Z"
+  },
+  {
+    "id": 5,
+    "username": "user5",
+    "email": "user5@example.com",
+    "createdAt": "2024-05-18T16:00:00Z"
+  },
+  {
+    "id": 6,
+    "username": "user6",
+    "email": "user6@example.com",
+    "createdAt": "2024-05-19T18:00:00Z"
+  },
+  {
+    "id": 7,
+    "username": "user7",
+    "email": "user7@example.com",
+    "createdAt": "2024-05-20T20:00:00Z"
+  },
+  {
+    "id": 8,
+    "username": "user8",
+    "email": "user8@example.com",
+    "createdAt": "2024-05-21T22:00:00Z"
+  },
+  {
+    "id": 9,
+    "username": "user9",
+    "email": "user9@example.com",
+    "createdAt": "2024-05-22T00:00:00Z"
+  },
+  {
+    "id": 10,
+    "username": "user10",
+    "email": "user10@example.com",
+    "createdAt": "2024-05-23T02:00:00Z"
+  }
+]
